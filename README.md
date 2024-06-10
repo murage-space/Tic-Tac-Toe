@@ -11,10 +11,7 @@ This is a simple implementation of the classic Tic Tac Toe game. The game is des
 5. If all cells on the game board are filled and no player has won, the game is a draw.
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/yourusername/tictactoe.git`
-2. Navigate to the project directory: `cd tictactoe`
-3. Install the required dependencies: `npm install`
-4. Start the game: `npm start`
+1. Clone this repository: `https://github.com/murage-space/Tic-Tac-Toe.git`
 
 ## Technologies Used
 - HTML
